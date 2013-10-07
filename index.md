@@ -15,4 +15,4 @@ Softwarewolves is engaging one-day coding contest for developers that combines b
 
 Trivia
 ---
-Did you know our state-of-the-art server requires less energy in an hour than a jumbo jet in a millisecond? Check it out:
+Did you know our state-of-the-art server requires less energy in an hour than a jumbo jet in a millisecond? Check it out: ![test](https://github.com/softwarewolves/softwarewolves.github.io/blob/master/images/pi.jpg)
