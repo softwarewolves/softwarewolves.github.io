@@ -24,11 +24,16 @@ Send an email to info@softwarewolves.net
 About
 ---
 
+Alexander Helleboogh is a softwarewolves organizer who prefers to play the role of business customer. In daily life, he incarnates as a freelance software architect. During nights, he invents juicy stories.
+
+Yo Peeters
+
 
 
 References
 ---
 
+Softwarewolves was previously organi
 
 Trivia
 ---
