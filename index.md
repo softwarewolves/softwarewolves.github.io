@@ -4,7 +4,7 @@
 
 ---
 
-Softwarewolves.org
+Softwarewolves
 ====
 
 What?
@@ -14,7 +14,20 @@ Are you looking for a social event for your software developers that combines en
 
 Softwarewolves is an engaging one-day coding contest have fun coding, engage in a competition, and share experiences to learn from each other. 
 
-Participants form teams to implement “bot players” for the well-known werewolves AKA mafia party game. The organizers define functionality for the bot players that they are prepared to 'pay' for. Teams can experiment with programming practices and technology choices in order to achieve maximum business value. 
+Participants form teams to implement “bot players” for the well-known werewolves (AKA mafia) party game. The organizers define functionality for the bot players that they are prepared to 'pay' for. Teams can experiment with programming practices and technology choices in order to achieve maximum business value. During public demos, teams can 'sell' their work to the organizers and heckle each others' solution.
+
+Contact
+---
+
+Send an email to info@softwarewolves.net
+
+About
+---
+
+
+
+References
+---
 
 
 Trivia
