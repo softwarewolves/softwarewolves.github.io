@@ -19,7 +19,7 @@ Participants form teams to implement “bot players” for the well-known werewo
 Contact
 ---
 
-Send an email to info@softwarewolves.net
+Send an email to softwarewolves@archiwise.com
 
 About
 ---
