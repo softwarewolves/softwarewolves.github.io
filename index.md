@@ -18,6 +18,11 @@ We run Softwarewolves as an in-house one-day coding contest for your companies d
 
 Participants form teams to implement “bot players” for the well-known werewolves (AKA mafia) party game. The organizers define functionality for the bot players that they are prepared to 'pay' for. During public demos, teams can 'sell' their work to the organizers and heckle each others' solution.
 
+Practical
+---
+
+
+
 Contact
 ---
 
@@ -28,17 +33,23 @@ About
 
 This session was developed by Alexander Helleboogh, Johan Peeters and Nelis Bouck&eacute;.
 
-Alexander is a freelance software architect. During the nights, he invents juicy stories and maintains the .Net bot.
+Alexander is a partner at [ArchiWise](http://www.archiwise.com) and freelance software architect. During the nights, he invents juicy stories and maintains the .Net bot.
 
-Johan's day job is freelance architect / security expert. At night, he shapeshifts into a softwarewolf maintaining the Game Engine and the Scala and nodejs bots. 
+Johan's day job is [freelance software architect / security expert](http://johanpeeters.com). At night, he shapeshifts into a softwarewolf maintaining the Game Engine and the Scala and Node.js bots. 
 
-From dusk till dawn, Nelis sinks his teeth into the softwarewolves datacenter and infrastructure and maintains the Java and Ruby bot. At dawn, he goes back to his role as a freelance architect.
+From dusk till dawn, Nelis sinks his teeth into the softwarewolves datacenter and infrastructure and maintains the Java and Ruby bot. At dawn, he goes back to his role as partner and freelance software architect at [ArchiWise](http://www.archiwise.com).
 
 
 References
 ---
 
-Softwarewolves was previously organi
+Softwarewolves was previously run at:
+
+- SPA (more information), ?
+- Co-learning (more information), ?
+- Mini XP-days (more information), ?/11/2012
+- XP-days, together with Peter Doomen (more information), 29-30/11/2012
+
 
 Trivia
 ---
