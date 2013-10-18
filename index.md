@@ -28,7 +28,7 @@ About
 
 This session was developed by Alexander Helleboogh, Johan Peeters and Nelis Bouck&eacute;.
 
-Alexander is a freelance software architect in daily life. During the nights, he invents juicy stories and maintains the .Net bot.
+Alexander is a freelance software architect. During the nights, he invents juicy stories and maintains the .Net bot.
 
 Johan's day job is freelance architect / security expert. At night, he shapeshifts into a softwarewolf maintaining the Game Engine and the Scala and nodejs bots. 
 
