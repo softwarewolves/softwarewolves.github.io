@@ -26,12 +26,13 @@ Send an email to softwarewolves@archiwise.com
 About
 ---
 
-Alexander Helleboogh a softwarewolves organizer who prefers to play the role of business customer. In daily life, he incarnates as a freelance software architect. During the nights, he invents juicy stories and maintains the .Net bot.
+This session was developed by Alexander Helleboogh, Johan Peeters and Nelis Bouck&eacute;.
 
-Johan Peeters is our organizer who loves to dive into the coding. In daily life, he incarnates as a freelance architect / security expert. During the nights, he plays with the code to shape the perfect werewolf and maintains Game Engine and the scala and nodejs bots. 
+Alexander plays the role of business customer. In daily life, he incarnates as a freelance software architect. During the nights, he invents juicy stories and maintains the .Net bot.
 
-Nelis Boucké is our organizer who plays with the servers. In daily life, he incarnates as a freelance architect. During the nights, he maintains our server park (;-)) and maintains the Game Engine and the ruby and java bots. 
+During the day, Johan pretends to be a freelance architect / security expert. At night, he shapeshifts into a softwarewolf maintaining the Game Engine and the Scala and nodejs bots. 
 
+From dusk till dawn, nelis sinks his teeth into the softwarewolves datacenter and infrastructure and maintains the Java and Ruby bot. At dawn, he goes back to his role as a freelance architect.
 
 
 References
