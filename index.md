@@ -30,7 +30,7 @@ Alexander Helleboogh a softwarewolves organizer who prefers to play the role of 
 
 Johan Peeters is our organizer who loves to dive into the coding. In daily life, he incarnates as a freelance architect / security expert. During the nights, he plays with the code to shape the perfect werewolf and maintains Game Engine and the scala and nodejs bots. 
 
-Nelis Boucké is our organizer who plays with the servers. In daily life, he incarnates as a freelance architect. During the nights, he maintains the the server park (euh) and maintains the Game Engine and the ruby and java bots. 
+Nelis Boucké is our organizer who plays with the servers. In daily life, he incarnates as a freelance architect. During the nights, he maintains our server park (;-)) and maintains the Game Engine and the ruby and java bots. 
 
 
 
