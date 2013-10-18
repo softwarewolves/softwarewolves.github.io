@@ -28,11 +28,11 @@ About
 
 This session was developed by Alexander Helleboogh, Johan Peeters and Nelis Bouck&eacute;.
 
-Alexander plays the role of business customer. In daily life, he incarnates as a freelance software architect. During the nights, he invents juicy stories and maintains the .Net bot.
+Alexander is a freelance software architect in daily life. During the nights, he invents juicy stories and maintains the .Net bot.
 
-During the day, Johan pretends to be a freelance architect / security expert. At night, he shapeshifts into a softwarewolf maintaining the Game Engine and the Scala and nodejs bots. 
+Johan's day job is freelance architect / security expert. At night, he shapeshifts into a softwarewolf maintaining the Game Engine and the Scala and nodejs bots. 
 
-From dusk till dawn, nelis sinks his teeth into the softwarewolves datacenter and infrastructure and maintains the Java and Ruby bot. At dawn, he goes back to his role as a freelance architect.
+From dusk till dawn, Nelis sinks his teeth into the softwarewolves datacenter and infrastructure and maintains the Java and Ruby bot. At dawn, he goes back to his role as a freelance architect.
 
 
 References
