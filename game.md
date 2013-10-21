@@ -16,7 +16,7 @@ Softwarewolves is inspired by the well-know party game [Werewolves](http://en.wi
 
 Softwarewolves
 --------------
-In softwarewolves, the werewolves game is played online over chat, involving both human an bot players. In the screenshot below you can see part of the voting round in which the villagers vote who should be hanged.
+Softwarewolves is a variant of the werewolves game played online over chat, involving both human an bot players. In the screenshot below you can see part of the voting round in which the villagers vote who should be hanged.
 
 ![](https://raw.github.com/softwarewolves/softwarewolves.github.io/master/images/screenshot.png)
 
@@ -30,7 +30,7 @@ Teams can earn marks by succesfully demoing one or several stories to the produc
 
 Technology
 ----------
-The game is played over online chat. Players meet in a chatroom where the game takes place. The underlying technology used for the Softwarewolves game is [Extensible Messaging and Presence Protocol (XMPP)][1]. XMPP grew out of *Jabber* and is often referred to by that name. Players are XMPP clients, and connect to an XMPP server.
+The game is played over online chat. Players meet in a chatroom where the game takes place. The underlying technology used for the Softwarewolves game is [Extensible Messaging and Presence Protocol (XMPP)][1]. Players are XMPP clients, and connect to an XMPP server. XMPP enables connecting players written in different languages and technologies.
 
 But don't worry, you don't need XMPP knownledge to build a bot for softwarewolves. We provide basic bot implementations that encapsulate the XMPP-protocol so that you can start with minimal technical hurdles. Basic bots are available in the following programming languates:
 - C#

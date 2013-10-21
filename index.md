@@ -22,7 +22,7 @@ Learning objectives
 - Have fun while coding!
 - Getting to know your colleagues out of the office in a playful environment 
 - Share experiences on programming practices and learn from others while pairing and comparing in the standups.
-- Apply and adapt programming practices to achieve maximum value fast pace environment.
+- Apply and adapt programming practices to achieve maximum value in a fast pace environment.
 
 
 References
