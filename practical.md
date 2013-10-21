@@ -7,7 +7,6 @@
 Prerequisites
 ---
 
-- Bring your computer
-- A chat client that supports xmpp, such as Pidgin, Adium, etc.
-- A development environment, preferably for Java, .Net, Ruby or Node.js as we provide a basic bot to start from in these technologies.
-Prior knowledge of xmpp is not required!
+- Bring your computer with your favorite development environment. Basic bots are available for Java, .Net, Ruby or Node.js. 
+- Prior knowledge of xmpp is not required!
+- A chat client that supports XMPP, such as Pidgin (Windows), Adium (Mac OS X), etc.
