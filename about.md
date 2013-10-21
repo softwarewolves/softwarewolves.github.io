@@ -9,10 +9,10 @@ History
 
 [Peter Doomen](http://www.linkedin.com/pub/peter-doomen/1/460/33) originally had the idea to turn the <a href="http://en.wikipedia.org/wiki/Mafia_(party_game)">werewolf party game</a> into a coding contest and proposed a session at Agile Open Benelux 2011.
 
-Johan Peeters won and found the concept so intriguing, that he proposed a session together with Peter for [XPDays Benelux 2011](http://www.xpday.be/Xpday2011/sessions/Agile%20Werewolves.html).
+Johan Peeters won and found the concept so intriguing, that he proposed the session together with Peter for [XPDays Benelux 2011](http://www.xpday.be/Xpday2011/sessions/Agile%20Werewolves.html).
 
 The winners, Alexander Helleboogh and Nelis Bouck&eacute;, were again enthralled, jumped on the band wagon and helped to create the [XPDays Benelux 2012]() edition.
-By this time, the session had changed: we provided a game engine that runs in an XMPP village and participants were asked to write villager and werewolf bots in the language of their choice.
+By this time, the session had morphed: we provided a game engine that runs in an XMPP village and participants were asked to write villager and werewolf bots in the language of their choice.
 Using XMPP as a backbone allowed conversations between bots implemented in different technologies.
 
 

@@ -43,7 +43,7 @@ Prerequisites for participants
 - Affinity with development (it's a coding event). 
 - Prior knowledge of XMPP is not required!
 - A computer with your favorite development environment. Basic bots are available for Java, C#, Ruby, Node.js and Scala.
-- A chat client that supports XMPP, such as Pidgin for Windows or Adium for Mac OS X, or administrator privileges to install such a chat client.
+- A chat client that supports XMPP, such as Pidgin for Windows or Adium for Mac OS X, or administrator privileges to install it.
 
 
 
