@@ -629,7 +629,11 @@ header {
     margin: auto;
 }
 
-header li {
+nav ul {
+    margin-left: -50px;
+}
+
+nav ul li {
     float: left;
     padding: 10px;
 }
