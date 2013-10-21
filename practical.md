@@ -3,12 +3,12 @@
         title: Softwarewolves
 ---
 
-Practical information about the session
+Practical information
 ---
 
-This session is typically done in pairs. The session is well suited for 3 till 5 teams. 
+The session is typically done in pairs, although individuals and larger teams are also possible. The session is well suited for 3 till 5 teams. 
 
-The session takes 6-hours. In the past we have run it as a session starting in the morning with a break at lunch, or as a session starting after lunch and running a bit later in the evening. 
+The session typically takes 6-hours. In the past we have run it as a session starting in the morning with a break at lunch, or as a session starting after lunch and running a bit later in the evening. 
 
 Example day program
 ---
@@ -40,10 +40,10 @@ Everthing else (dedicated WiFi, server, ...)  will be provided by the organizers
 
 Prerequisites for participants
 ---
-- Must be able to develop.
-- Bring a computer with your favorite development environment. Basic bots are available for Java, .Net, Ruby, Node.js or Scala. 
+-ffinity with development is necessary
 - Prior knowledge of xmpp is not required!
-- A chat client that supports XMPP, such as Pidgin (Windows), Adium (Mac OS X), etc.
+- A computer with your favorite development environment. Basic bots are available for Java, .Net, Ruby, Node.js or Scala. 
+- A chat client that supports XMPP, such as Pidgin for Windows or Adium for Mac OS X. 
 
 
 
