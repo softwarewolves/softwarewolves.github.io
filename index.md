@@ -16,7 +16,7 @@ Are you looking for a fun teambuilding event for software developers that combin
 
 We run Softwarewolves as an in-house one-day coding contest for your companies developers. This playful session engages you in competitive coding pitching your programming skills against your colleagues to achieve maximum business value.
 
-Participants form paris to implement “bot players” for the well-known werewolves (AKA mafia) party game. The organizers define functionality for the bot players that they are prepared to 'pay' for. While pairing, participants cooperate and learn from each other. During public demos, teams can 'sell' their work to the organizers and heckle each others' solution. During standups, participants share their experiences with the group. 
+Participants form pairs to implement “bot players” for the well-known werewolves (AKA mafia) party game. The organizers define functionality for the bot players that they are prepared to 'pay' for. While pairing, participants cooperate and learn from each other. During public demos, teams can 'sell' their work to the organizers and heckle each others' solution. During standups, participants share their experiences with the group. 
 
 Practical
 ---
