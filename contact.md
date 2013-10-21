@@ -4,7 +4,7 @@
 
 ---
 
-Contact and commercial terms
+Contact
 ---
 
 Public sessions apart, as advertised in , Softwarewolves is offered in-house by Alexander Helleboogh, Johan Peeters and Nelis Bouck&eacute;.
