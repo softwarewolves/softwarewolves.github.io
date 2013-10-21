@@ -5,7 +5,7 @@
 
 Practical information
 ---
-The session is typically done in pairs, although individuals and larger teams can also participate. The session is well suited for 3 till 5 teams. 
+The session is typically done in pairs, although individuals and larger teams can also participate. The session is well suited for 3 to 5 teams.
 
 Day program
 ---
@@ -32,18 +32,18 @@ Location
 Softwarewolves can be held at any location, provided there is
 - a beamer
 - an internet connection
-- enough seats for the participants
-- wallplugs for laptops
-- arrangement for beverages during the breaks and/or lunch (if applicable)
+- sufficient desk space for participants to code in comfort
+- power sockets for laptops
+- refreshments and lunch if applicable.
 
 Everthing else (dedicated WiFi, server, ...)  will be provided by the organizers.
 
 Prerequisites for participants
 ---
 - Affinity with development (it's a coding event). 
-- Prior knowledge of xmpp is not required!
-- A computer with your favorite development environment. Basic bots are available for Java, .Net, Ruby, Node.js or Scala. 
-- A chat client that supports XMPP, such as Pidgin for Windows or Adium for Mac OS X, and/or administrator privileges to install such a chat client.
+- Prior knowledge of XMPP is not required!
+- A computer with your favorite development environment. Basic bots are available for Java, C#, Ruby, Node.js and Scala.
+- A chat client that supports XMPP, such as Pidgin for Windows or Adium for Mac OS X, or administrator privileges to install such a chat client.
 
 
 
