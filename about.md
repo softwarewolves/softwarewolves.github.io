@@ -7,7 +7,7 @@
 About
 ---
 
-This session was developed by Alexander Helleboogh, Johan Peeters and Nelis Bouck&eacute;.
+This session was developed by Alexander Helleboogh, Johan Peeters and Nelis Bouck&eacute;. 
 
 [Alexander](be.linkedin.com/in/alexanderhelleboogh) is a partner at [ArchiWise](http://www.archiwise.com) and freelance software architect. During the nights, he invents juicy stories and maintains the .Net bot.
 
