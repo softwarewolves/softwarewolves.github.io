@@ -8,7 +8,7 @@ What?
 ---
 
 Are you looking for a fun teambuilding event for software developers that combines entertainment and learning?
-Searching for something more fun then a training and more useful then going kayaking?
+Searching for something more fun than a training and more useful then going kayaking?
 
 We run Softwarewolves as an in-house coding contest for your companies' developers.
 This playful session engages you in competitive coding pitching your programming skills against your colleagues to achieve maximum business value.
@@ -19,7 +19,7 @@ This tests market awareness, programming skills and development process.
 During public demos, teams 'sell' their work and heckle competing solutions.
 In the subsequent retrospective, participants come together to reflect on experiences and learn from each other.
 
-Learning objectives
+Goals
 ---
 
 - Have fun while coding!
