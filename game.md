@@ -16,7 +16,7 @@ Softwarewolves is inspired by the well-know party game [Werewolves](http://en.wi
 
 Softwarewolves
 --------------
-In softwarewolves, the werewolves game is played online over chat, involving both human an bot players. In the screenshot below you can see part of the voting round in which the villagers vote who should be hanged.
+Softwarewolves is a variant of the werewolves game played online over chat, involving both human an bot players. In the screenshot below you can see part of the voting round in which the villagers vote who should be hanged.
 
 ![](https://raw.github.com/softwarewolves/softwarewolves.github.io/master/images/screenshot.png)
 
