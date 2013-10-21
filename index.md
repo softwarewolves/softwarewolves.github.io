@@ -18,7 +18,7 @@ This tests market awareness, programming skills and development process.
 During public demos, teams 'sell' their work and heckle competing solutions.
 In the subsequent retrospective, participants come together to reflect on experiences and learn from each other.
 
-Goals
+Session objectives
 ---
 
 - Have fun while coding!
