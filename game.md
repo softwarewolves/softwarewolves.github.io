@@ -13,7 +13,7 @@ Softwarewolves is inspired by the well-know party game [Werewolves](http://en.wi
 
 In softwarewolves, we consider a simplified version of the werewolves game in which there is only one werewolf. Moreover, the game is played online over chat, involving both human an bot players.
 
-
+![](https://raw.github.com/softwarewolves/softwarewolves.github.io/master/images/screenshot.png)
 
 Technical setup
 ==============
