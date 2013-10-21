@@ -11,8 +11,10 @@ References
 Softwarewolves started as a fun session at conferences, but has grown to a teambuilding event for software developers.
 Softwarewolves was previously run at:
 
+<!--
 - SeaChange, Best, The Netherlands, September and October 2013
 ![SeaChange](/images/seachange201309_pano.jpg)
+-->
 - [SPA, London, 23/6/2013](http://www.spaconference.org/spa2013/)
 - [Co\-Learning, Mechelen, Belgium, 4/5/2013](http://www.co-learning.be/Gameday)
 ![Co\-Learning](/images/co-learning.jpg)
