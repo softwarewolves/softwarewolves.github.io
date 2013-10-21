@@ -34,8 +34,4 @@ Softwarewolves started as a fun session at conferences, but has grown to a teamb
 - XP-days, together with Peter Doomen ([more information](http://www.xpdays.net/Xpday2013/XPDays/About.html)), 29-30/11/2012
 
 
-Trivia
----
-Did you know our state-of-the-art game server is a raspberry pi that requires less energy in an hour than a jumbo jet in a millisecond? 
 
-![](https://raw.github.com/softwarewolves/softwarewolves.github.io/master/images/pi.jpg)
