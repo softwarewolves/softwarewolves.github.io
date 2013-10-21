@@ -4,8 +4,6 @@
 
 ---
 
-Softwarewolves
-====
 
 ...Under construction...
 
@@ -17,27 +15,6 @@ Are you looking for a fun teambuilding event for software developers that combin
 We run Softwarewolves as an in-house one-day coding contest for your companies developers. This playful session engages you in competitive coding pitching your programming skills against your colleagues to achieve maximum business value.
 
 Participants form pairs to implement “bot players” for the well-known werewolves (AKA mafia) party game. The organizers define functionality for the bot players that they are prepared to 'pay' for. While pairing, participants cooperate and learn from each other. During public demos, teams can 'sell' their work to the organizers and heckle each others' solution. During standups, participants share their experiences with the group. 
-
-Practical
----
-
-
-
-Contact
----
-
-Send an email to softwarewolves@archiwise.com
-
-About
----
-
-This session was developed by Alexander Helleboogh, Johan Peeters and Nelis Bouck&eacute;.
-
-[Alexander](be.linkedin.com/in/alexanderhelleboogh) is a partner at [ArchiWise](http://www.archiwise.com) and freelance software architect. During the nights, he invents juicy stories and maintains the .Net bot.
-
-[Johan's](be.linkedin.com/in/johanpeeters) day job is [freelance software architect / security expert](http://johanpeeters.com). At night, he shapeshifts into a softwarewolf maintaining the Game Engine and the Scala and Node.js bots. 
-
-From dusk till dawn, [Nelis](http://www.linkedin.com/in/nelis) sinks his teeth into the softwarewolves datacenter and infrastructure and maintains the Java and Ruby bot. At dawn, he goes back to his role as partner and freelance software architect at [ArchiWise](http://www.archiwise.com).
 
 
 References
