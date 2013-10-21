@@ -7,9 +7,11 @@ Practical information
 ---
 The session is typically done in pairs, although individuals and larger teams can also participate. The session is well suited for 3 till 5 teams. 
 
-Example day program
+Day program
 ---
 The session typically takes 6-hours. In the past we have run it as a session starting in the morning with a break at lunch, or as a session starting after lunch and running a bit later in the evening. 
+
+A sample schedule for an afternoon session:
 
 - 13:00 Introduction to game and stories, how to get started, team formation 
 - 13:15 Dev Iteration
