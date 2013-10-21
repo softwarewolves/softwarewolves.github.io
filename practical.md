@@ -1,7 +1,6 @@
 ---
         layout: page
         title: Softwarewolves
-
 ---
 
 Practical information about the session
@@ -28,11 +27,24 @@ Example day program
 - 18:30 Demo and retrospective
 - 18:45 Closing + reflection on what was learned	
 
+Location
+---
+Softwarewolves can be held at any location, provided there is
+- a beamer
+- an internet connection
+- enough seats for the participants (up to 12)
+- wallplugs for laptops
+- arrangement for beverages during the breaks and/or lunch (if applicable)
+
+Everthing else (dedicated WiFi, server, ...)  will be provided by the organizers.
 
 Prerequisites for participants
 ---
-
 - Must be able to develop.
-- A computer with a development environment, preferably for Java, .Net, Ruby or Node.js as we provide a basic bot to start from in these technologies.
-Prior knowledge of xmpp is not required!
-- Administrative rights to install software like a chat client that supports xmpp, such as Pidgin, Adium, etc.
+- Bring a computer with your favorite development environment. Basic bots are available for Java, .Net, Ruby, Node.js or Scala. 
+- Prior knowledge of xmpp is not required!
+- A chat client that supports XMPP, such as Pidgin (Windows), Adium (Mac OS X), etc.
+
+
+
+
