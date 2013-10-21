@@ -32,6 +32,15 @@ But don't worry, you don't need XMPP knownledge to build a bot for softwarewolve
 - Node.js
 - Scala
 - Other languages available at request
+ 
+Infastructure
+---
+Our state-of-the-art game server is a raspberry pi. Did you know that requires less energy in an hour than a jumbo jet in a millisecond?
+
+![](https://raw.github.com/softwarewolves/softwarewolves.github.io/master/images/pi.jpg)
+
+
+
 
 [1]: http://en.wikipedia.org/wiki/XMPP
 
