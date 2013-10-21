@@ -5,13 +5,12 @@
 
 Practical information
 ---
+The session is typically done in pairs, although individuals and larger teams can also participate. The session is well suited for 3 till 5 teams. 
 
-The session is typically done in pairs, although individuals and larger teams are also possible. The session is well suited for 3 till 5 teams. 
-
-The session typically takes 6-hours. In the past we have run it as a session starting in the morning with a break at lunch, or as a session starting after lunch and running a bit later in the evening. 
 
 Example day program
 ---
+The session typically takes 6-hours. In the past we have run it as a session starting in the morning with a break at lunch, or as a session starting after lunch and running a bit later in the evening. 
 
 - 13:00 Introduction to game and stories, how to get started, team formation 
 - 13:15 Dev Iteration
@@ -32,7 +31,7 @@ Location
 Softwarewolves can be held at any location, provided there is
 - a beamer
 - an internet connection
-- enough seats for the participants (up to 12)
+- enough seats for the participants
 - wallplugs for laptops
 - arrangement for beverages during the breaks and/or lunch (if applicable)
 
