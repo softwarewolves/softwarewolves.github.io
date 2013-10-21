@@ -624,7 +624,19 @@ dt {
   font-weight: normal;
 }
 
+header {
+    max-width: 650px;
+    margin: auto;
+}
+
+header li {
+    float: left;
+    padding: 10px;
+}
+
 #header {
+  margin: auto;
+  max-width: 650px;
   z-index: 100;
   left: 0;
   top: 0px;
