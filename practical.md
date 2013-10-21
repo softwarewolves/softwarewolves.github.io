@@ -40,7 +40,7 @@ Everthing else (dedicated WiFi, server, ...)  will be provided by the organizers
 
 Prerequisites for participants
 ---
-- Affinity with development (it's a coding event)
+- Affinity with development (it's a coding event). 
 - Prior knowledge of xmpp is not required!
 - A computer with your favorite development environment. Basic bots are available for Java, .Net, Ruby, Node.js or Scala. 
 - A chat client that supports XMPP, such as Pidgin for Windows or Adium for Mac OS X, and/or administrator privileges to install such a chat client.
