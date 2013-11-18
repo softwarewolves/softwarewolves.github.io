@@ -1,2 +1,8 @@
 Clickable Menu items
 Active Menu item
+link color in tekst
+flow layout voor menu
+padding voor lists
+pagina titels weghalen
+foto's
+titels in tekst aanpassen
