@@ -1,5 +1,6 @@
 body{
     color:#ffffff;
+    background: blue;
     background-image: url("/images/background-tile.jpg");
 
 }
@@ -7,5 +8,10 @@ body{
 .blue-line {
     background: #004669;
     height: 0.625em;
+    margin: -0.5em;
+}
+
+.menu {
+    background: #0D0D0D;
     margin: -0.5em;
 }
