@@ -24,10 +24,15 @@ body{
 
 .menu li {
     padding-bottom: 0.25em;
+    text-align: center;
 }
 
-.menu a, a:active, a:hover, a:visited {
+.menu a, a:hover, a:active, a:visited {
     color: #A4A4A5;
+}
+
+.menu a:active {
+    
 }
 
 section {
@@ -39,4 +44,16 @@ section {
 
 h2 {
     margin: 0.1em 0 0.3em 0;
+}
+
+img#logotext {
+    margin-top:2.5em;
+}
+
+div.nopadding {
+    padding:0;
+}
+
+div#logomoon {
+    margin-bottom: -1.875em;
 }
