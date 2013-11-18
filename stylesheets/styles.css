@@ -4,4 +4,8 @@ body{
 
 }
 
-.blue-line {}
+.blue-line {
+    background: #004669;
+    height: 0.625em;
+    margin: -0.5em;
+}
