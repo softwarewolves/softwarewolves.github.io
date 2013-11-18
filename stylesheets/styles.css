@@ -1,6 +1,6 @@
 body{
     color:#ffffff;
-    background: blue;
+    background: #010a26;
     background-image: url("/images/background-tile.jpg");
     font-family: futura-std-light, helvetica;
 }
@@ -18,10 +18,25 @@ body{
     margin-top: 0.2em;
     padding-top:0.8em;
     background: #0D0D0D;
-    font-size: 0.8em;
     font-family: futura-std-heavy, helvetica;
+
+}
+
+.menu li {
+    padding-bottom: 0.25em;
+}
+
+.menu a, a:active, a:hover, a:visited {
     color: #A4A4A5;
 }
 
+section {
+    margin-top: 1.5em;
+    background: #acb4bf;
+    color: #17213b;
+    padding: 1em;
+}
 
-
+h2 {
+    margin: 0.1em 0 0.3em 0;
+}
