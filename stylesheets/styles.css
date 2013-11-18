@@ -2,16 +2,26 @@ body{
     color:#ffffff;
     background: blue;
     background-image: url("/images/background-tile.jpg");
+    font-family: futura-std-light, helvetica;
+}
 
+.row {
+    max-width: 100%;
 }
 
 .blue-line {
     background: #004669;
     height: 0.625em;
-    margin: -0.5em;
 }
 
 .menu {
+    margin-top: 0.2em;
+    padding-top:0.8em;
     background: #0D0D0D;
-    margin: -0.5em;
+    font-size: 0.8em;
+    font-family: futura-std-heavy, helvetica;
+    color: #A4A4A5;
 }
+
+
+
