@@ -27,12 +27,12 @@ body{
     text-align: center;
 }
 
-.menu a, a:hover, a:active, a:visited {
+.menu a, a:hover, a:visited {
     color: #A4A4A5;
 }
 
 .menu a:active {
-    
+    color: white;
 }
 
 section {
