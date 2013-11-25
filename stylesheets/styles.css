@@ -19,14 +19,14 @@ a, a:visited{
 }
 
 .menu {
-    margin-top: 0.2em;
-    padding-top:0.8em;
+
     background: #0D0D0D;
     font-family: futura-std-heavy, helvetica;
 
 }
 
 .menu li {
+    padding-top:0.9em;
     padding-bottom: 0.25em;
     text-align: center;
 }
