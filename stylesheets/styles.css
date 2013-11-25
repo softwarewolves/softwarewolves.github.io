@@ -5,6 +5,10 @@ body{
     font-family: futura-std-light, helvetica;
 }
 
+a, a:visited{
+	color: #7f0900;
+}
+
 .row {
     max-width: 100%;
 }
@@ -27,17 +31,15 @@ body{
     text-align: center;
 }
 
-.menu a, a:visited {
+.menu a, .menu a:visited {
     color: #A4A4A5;
 }
 
-.menu a:active, a:hover {
-    color: white;
+.menu a:active, .menu a:hover {
+    font-weight: bold;
 }
 
-a, a:visited{
-	color: #7f0900;
-}
+
 
 section {
     margin-top: 1.5em;
@@ -60,4 +62,8 @@ div.nopadding {
 
 div#logomoon {
     margin-bottom: -1.875em;
+}
+
+ul {
+	padding-left:2em;
 }
