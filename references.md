@@ -17,12 +17,11 @@
 Softwarewolves started as a fun session at conferences, but has grown to a teambuilding event for software developers.
 Softwarewolves was previously run at:
 
-* [SeaChange](http://www.schange.com), Best, The Netherlands, 2013  
-<img src="/images/externallogos/hightech.png" alt="Drawing" style="width: 200px;"/>  
-<img src="/images/externallogos/seachange.png" alt="Drawing" style="width: 200px;"/>  
+* [SeaChange](http://www.schange.com), Best, The Netherlands, 2013 <div class="referencelogo">
+	<img src="/images/externallogos/seachange.png" alt="Logo Seachange" class="referecelogo"/><br>
+	<img src="/images/externallogos/hightech.png" alt="Logo high tech ICT" class="referecelogo"/>
+</div>
 ![SeaChange](/photos/seachange201309_pano.jpg)
-
-
 
 * [SPA 2013, London](http://www.spaconference.org/spa2013/)
 

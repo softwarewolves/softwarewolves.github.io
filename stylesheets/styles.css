@@ -77,3 +77,12 @@ div#logomoon {
     margin-bottom: -1.875em;
 }
 
+div.referencelogo {
+	float:right;
+}
+
+img.referecelogo {
+	width:9em;
+	margin-bottom:0.5em;
+}
+
