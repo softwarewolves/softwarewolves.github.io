@@ -9,6 +9,10 @@ a, a:visited{
 	color: #7f0900;
 }
 
+ul {
+	padding-left:2em;
+}
+
 .row {
     max-width: 100%;
 }
@@ -41,6 +45,8 @@ a, a:visited{
 
 .menu-small ul {
 	list-style-type: none;
+	padding:0;
+	margin:0;
 }
 
 .menu-small li {
@@ -71,6 +77,3 @@ div#logomoon {
     margin-bottom: -1.875em;
 }
 
-ul {
-	padding-left:2em;
-}
