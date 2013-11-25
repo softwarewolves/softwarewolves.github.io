@@ -7,7 +7,7 @@
 History
 ---
 <style typ="text/css">
-    #about, #about a, #about a:visited, #about a:hover {
+    #menu_about, #menu_about a, #menu_about a:visited, #menu_about a:hover {
         background: #202021;
         color:white;
         font-weight:normal;

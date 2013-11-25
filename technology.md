@@ -7,7 +7,7 @@
 Technology
 ----------
 <style typ="text/css">
-    #technology, #technology a, #technology a:visited, #technology a:hover {
+    #menu_technology, #menu_technology a, #menu_technology a:visited, #menu_technology a:hover {
         background: #202021;
         color:white;
         font-weight:normal;

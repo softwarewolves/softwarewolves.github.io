@@ -7,7 +7,7 @@
 Contact
 ---
 <style typ="text/css">
-    #contact, #contact a, #contact a:visited, #contact a:hover {
+    #menu_contact, #menu_contact a, #menu_contact a:visited, #menu_contact a:hover {
         background: #202021;
         color:white;
         font-weight:normal;

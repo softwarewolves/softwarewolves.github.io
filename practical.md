@@ -6,7 +6,7 @@
 Practical information
 ---
 <style typ="text/css">
-    #practical, #practical a, #practical a:visited, #practical a:hover {
+    #menu_practical, #menu_practical a, #menu_practical a:visited, #menu_practical a:hover {
         background: #202021;
         color:white;
         font-weight:normal;

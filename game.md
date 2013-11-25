@@ -7,7 +7,7 @@
 The Game
 ========
 <style typ="text/css">
-    #game, #game a, #game a:visited, #game a:hover {
+    #menu_game, #menu_game a, #menu_game a:visited, #menu_game a:hover {
         background: #202021;
         color:white;
         font-weight:normal;

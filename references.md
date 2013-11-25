@@ -8,7 +8,7 @@
 References
 ---
 <style typ="text/css">
-    #references, #references a, #references a:visited, #references a:hover {
+    #menu_references, #menu_references a, #menu_references a:visited, #menu_references a:hover {
         background: #202021;
         color:white;
         font-weight:normal;
