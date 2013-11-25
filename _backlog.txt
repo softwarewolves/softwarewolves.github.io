@@ -1,8 +1,8 @@
-Clickable Menu items
-Active Menu item
-link color in tekst
-flow layout voor menu
 padding voor lists
+titels in tekst aanpassen
+
 pagina titels weghalen
 foto's
-titels in tekst aanpassen
+flow layout voor menu
+Active Menu item
+Clickable Menu items
