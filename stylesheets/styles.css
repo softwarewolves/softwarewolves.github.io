@@ -39,6 +39,13 @@ a, a:visited{
     font-weight: bold;
 }
 
+.menu-small ul {
+	list-style-type: none;
+}
+
+.menu-small li {
+	padding:0;
+}
 
 
 section {

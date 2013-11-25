@@ -8,8 +8,10 @@
           <!-- If you are using CSS version, only link these 2 files, you may add app.css to use for your overrides if you like. -->
           <link rel="stylesheet" href="stylesheets/normalize.css" />
           <link rel="stylesheet" href="stylesheets/foundation.css" />
-
-    <link rel="stylesheet" href="stylesheets/styles.css">
+          <link rel="stylesheet" href="stylesheets/styles.css">
+          
+          <script src="js/modernizr.js"></script>
+          
   </head>
   <body>
     <div class="row">
@@ -25,9 +27,7 @@
         <div class="small-12 columns blue-line"></div>
     </div>
 
-
-
-    <div class="row menu">
+    <div class="show-for-medium-up row menu">
         <div class="small-12 large-centered large-8 columns">
             <ul class="small-block-grid-6">
                 <li id="menu_game">
@@ -52,6 +52,31 @@
             </ul>
         </div>
    </div>
+   
+    <div class="hide-for-medium-up menu menu-small">
+            <ul>
+                <li id="menu_game">
+                    <a href="game.html">the game</a>
+                </li>
+                <li id="menu_technology">
+                    <a href="technology.html">technology</a>
+                </li>
+
+                <li id="menu_practical">
+                    <a href="practical.html">practical</a>
+                </li>
+                <li id="menu_about">
+                    <a href="about.html">history</a>
+                </li>
+                <li id="menu_references">
+                    <a href="references.html">references</a>
+                </li>
+                <li id="menu_contact">
+                    <a href="contact.html">contact</a>
+                </li>
+            </ul>
+   </div>
+
    <div class="row">  <!-- content -->
         <div class="small-12 large-centered large-8 columns">
         <section>
@@ -59,9 +84,7 @@
         </section>
         </div>
    </div>
-
-
-    
+  
   </body>
 
     <script>

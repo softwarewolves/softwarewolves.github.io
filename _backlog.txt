@@ -1,8 +1,4 @@
-padding voor lists
-titels in tekst aanpassen
+logo
 
-pagina titels weghalen
 foto's
-flow layout voor menu
-Active Menu item
 Clickable Menu items
