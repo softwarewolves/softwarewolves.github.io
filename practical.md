@@ -5,6 +5,13 @@
 
 Practical information
 ---
+<style typ="text/css">
+    #practical, #practical a, #practical a:visited, #practical a:hover {
+        background: #202021;
+        color:white;
+        font-weight:normal;
+    }
+</style>
 The session is typically done in pairs, although individuals and larger teams can also participate. The session is well suited for 3 to 5 teams.
 
 Day program

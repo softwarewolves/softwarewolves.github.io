@@ -6,7 +6,13 @@
 
 History
 ---
-
+<style typ="text/css">
+    #about, #about a, #about a:visited, #about a:hover {
+        background: #202021;
+        color:white;
+        font-weight:normal;
+    }
+</style>
 [Peter Doomen](http://www.linkedin.com/pub/peter-doomen/1/460/33) originally had the idea to turn the <a href="http://en.wikipedia.org/wiki/Mafia_(party_game)">werewolf party game</a> into a coding contest and proposed a session at Agile Open Benelux 2011.
 
 Johan Peeters won and found the concept so intriguing, that he proposed the session together with Peter for [XPDays Benelux 2011](http://www.xpday.be/Xpday2011/sessions/Agile%20Werewolves.html).

@@ -6,7 +6,13 @@
 
 Contact
 ---
-
+<style typ="text/css">
+    #contact, #contact a, #contact a:visited, #contact a:hover {
+        background: #202021;
+        color:white;
+        font-weight:normal;
+    }
+</style>
 Contact us for a commercial proposal by sending us an email at <softwarewolves@archiwise.com>.
 
 Softwarewolves is a session by Alexander Helleboogh, Johan Peeters and Nelis Bouck&eacute;.

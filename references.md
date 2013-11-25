@@ -7,7 +7,13 @@
 
 References
 ---
-
+<style typ="text/css">
+    #references, #references a, #references a:visited, #references a:hover {
+        background: #202021;
+        color:white;
+        font-weight:normal;
+    }
+</style>
 Softwarewolves started as a fun session at conferences, but has grown to a teambuilding event for software developers.
 Softwarewolves was previously run at:
 
