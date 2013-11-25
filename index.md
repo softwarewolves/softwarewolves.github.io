@@ -4,8 +4,8 @@
 
 ---
 
-What?
----
+###What?
+
 
 Are you looking for a fun teambuilding event for software developers that combines entertainment and learning? Do you want something more fun than a training and more useful than canoeing?
 
@@ -18,8 +18,7 @@ This tests market awareness, programming skills and development process.
 During public demos, teams 'sell' their work and heckle competing solutions.
 In the subsequent retrospective, participants come together to reflect on experiences and learn from each other.
 
-Session objectives
----
+###Session objectives
 
 - Have fun while coding!
 - Get to know your colleagues out of the office in a playful environment.

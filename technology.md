@@ -4,8 +4,7 @@
 
 ---
 
-Technology
-----------
+###Technology
 <style typ="text/css">
     #menu_technology, #menu_technology a, #menu_technology a:visited, #menu_technology a:hover {
         background: #202021;
@@ -24,8 +23,7 @@ But don't worry, you don't need XMPP knownledge to build a bot for softwarewolve
 
 Other languages available at request.
  
-Infastructure
----
+###Infastructure
 Our state-of-the-art game server is a raspberry pi that runs ejabberd. Did you know that requires less energy in an hour than a jumbo jet in a millisecond?
 
-![](https://raw.github.com/softwarewolves/softwarewolves.github.io/master/images/pi.jpg)
+<img src="https://raw.github.com/softwarewolves/softwarewolves.github.io/master/photos/pi.jpg" alt="Drawing" style="width: 400px;"/>

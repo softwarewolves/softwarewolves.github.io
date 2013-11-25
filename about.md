@@ -4,8 +4,8 @@
 
 ---
 
-History
----
+###History
+
 <style typ="text/css">
     #menu_about, #menu_about a, #menu_about a:visited, #menu_about a:hover {
         background: #202021;

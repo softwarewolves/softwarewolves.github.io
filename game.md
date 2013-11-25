@@ -4,8 +4,7 @@
 
 ---
 
-The Game
-========
+###The Game
 <style typ="text/css">
     #menu_game, #menu_game a, #menu_game a:visited, #menu_game a:hover {
         background: #202021;

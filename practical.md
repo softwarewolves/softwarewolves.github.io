@@ -3,8 +3,8 @@
         title: Softwarewolves
 ---
 
-Practical information
----
+###Practical information
+
 <style typ="text/css">
     #menu_practical, #menu_practical a, #menu_practical a:visited, #menu_practical a:hover {
         background: #202021;
@@ -14,8 +14,8 @@ Practical information
 </style>
 The session is typically done in pairs, although individuals and larger teams can also participate. The session is well suited for 3 to 5 teams.
 
-Day program
----
+###Day program
+
 The session typically takes 6-hours. In the past we have run it as a session starting in the morning with a break at lunch, or as a session starting after lunch and running a bit later in the evening. 
 
 A sample schedule for an afternoon session:
@@ -34,8 +34,8 @@ A sample schedule for an afternoon session:
 - 18:30 Demo and retrospective
 - 18:45 Closing + reflection on what was learned	
 
-Location
----
+###Location
+
 Softwarewolves can be held at any location, provided there is
 - a beamer
 - an internet connection
@@ -45,8 +45,8 @@ Softwarewolves can be held at any location, provided there is
 
 Everthing else (dedicated WiFi, server, ...)  will be provided by the organizers.
 
-Prerequisites for participants
----
+###Prerequisites for participants
+
 - Affinity with development (it's a coding event). 
 - Prior knowledge of XMPP is not required!
 - A computer with your favorite development environment. Basic bots are available for Java, C#, Ruby, Node.js and Scala.
