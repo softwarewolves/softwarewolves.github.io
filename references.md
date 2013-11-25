@@ -17,7 +17,7 @@
 Softwarewolves started as a fun session at conferences, but has grown to a teambuilding event for software developers.
 Softwarewolves was previously run at:
 
-<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4 logos">
 <li>
 <a href="http://www.schange.com" alt="Seachange website"><img src="/images/externallogos/seachange.png" alt="Logo Seachange" /></a>
 </li>
@@ -37,7 +37,7 @@ Softwarewolves was previously run at:
 <a href="http://www.xpday.net/Xpday2012/FrontPage.html" alt="XP days 2012 website"><img src="/images/externallogos/xpdays2012.png" alt="Logo XP days 2012" /></a>
 </li>
 <li>
-<a href="http://www.xpday.be/Xpday2011/sessions/Agile%20Werewolves.html" alt="XP days 2011 website"><img src="/images/externallogos/xpdays2011.png" alt="Logo XP days 2011" /></a>
+<a href="http://www.xpday.be/Xpday2011/FrontPage.html" alt="XP days 2011 website"><img src="/images/externallogos/xpdays2011.png" alt="Logo XP days 2011" /></a>
 </li>
 <li>
 <a href="http://www.agileopen.net/agile-open-belgium-2011" alt="Agile Open Belgium 2011 website"><img src="/images/externallogos/AgileOpen2011.png" alt="Logo Agile Open 2011" /></a>
