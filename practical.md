@@ -22,17 +22,17 @@ A sample schedule for an afternoon session:
 
 - 13:00 Introduction to game and stories, how to get started, team formation 
 - 13:15 Dev Iteration
-- 14:00 Demo and retrospective
+- 14:00 Demo and retrospective on what was learned
 - 14:30 Break	
 - 14:45 Dev iteration 
-- 15:30 Demo and retrospective
+- 15:30 Demo and retrospective on what was learned
 - 16:00 Break
 - 16:15 Dev iteration
-- 17:00 Demo and retrospective
+- 17:00 Demo and retrospective on what was learned
 - 17:30 Break
 - 17:45 Dev iteration
-- 18:30 Demo and retrospective
-- 18:45 Closing + reflection on what was learned	
+- 18:30 Demo and retrospective on what was learned
+- 18:45 Closing + concluding reflections	
 
 ###Location
 
