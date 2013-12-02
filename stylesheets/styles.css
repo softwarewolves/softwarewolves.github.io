@@ -23,6 +23,10 @@ body{
 div.nopadding {
     padding:0;
 }
+
+.nomargin {
+    margin: 0;
+}
 /* =========menu========= */
 
 .menu {
@@ -78,7 +82,7 @@ section {
     margin-top: 1.5em;
     background: #acb4bf;
     color: #17213b;
-    padding: 1em;
+    padding: 1em 2em;
 }
 
 h2 {
