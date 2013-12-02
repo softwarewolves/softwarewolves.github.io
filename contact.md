@@ -8,7 +8,7 @@
 
 <style typ="text/css">
     #menu_contact, #menu_contact a {
-        background: #202021;
+        background: #323232;
         color:white;
     }
 </style>

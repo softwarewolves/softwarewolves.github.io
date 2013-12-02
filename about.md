@@ -8,7 +8,7 @@
 
 <style typ="text/css">
     #menu_about, #menu_about a {
-        background: #202021;
+        background: #323232;
         color:white;
     }
 </style>

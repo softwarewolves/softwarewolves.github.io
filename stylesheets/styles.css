@@ -43,7 +43,7 @@ div.nopadding {
     padding-bottom: 0.25em;
 }
 
-.menu a:active, .menu a:hover {
+.menu a:hover {
     background: #202021;
 }
 

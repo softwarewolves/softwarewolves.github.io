@@ -7,7 +7,7 @@
 ###The Game
 <style typ="text/css">
     #menu_game, #menu_game a {
-        background: #202021;
+        background: #323232;
         color:white;
     }
 </style>

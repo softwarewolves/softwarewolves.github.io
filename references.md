@@ -9,7 +9,7 @@
 
 <style typ="text/css">
     #menu_references, #menu_references a {
-        background: #202021;
+        background: #323232;
         color:white;
     }
 </style>
