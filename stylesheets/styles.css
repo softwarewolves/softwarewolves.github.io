@@ -45,6 +45,7 @@ div.nopadding {
     display: block;
     padding-top:0.9em;
     padding-bottom: 0.25em;
+    color: grey;
 }
 
 .menu a:hover {
