@@ -18,7 +18,7 @@ By this time, the session had morphed: we provided a game engine that runs in an
 Using XMPP as a backbone allowed conversations between bots implemented in different technologies.
 
 
-* Even though XMPP is a simple technology, it proved challenging to master the basics given the time pressure during the contest. That is why we provided basic bots that incorporate the required XMPP operations in some of the most popular languages for the next presentation at [Mini XPDays 2013](http://www.xpdays.net/Xpday2013/Mini%20XPDay/Program.html#session_91): Node.js, Java, C#. [Rob Westgeest](http://www.agidem.nl/nl/index.html) kindly donated a Ruby basic bot.
+* Even though XMPP is a simple technology, it proved challenging to master the basics given the time pressure during the contest. That is why we provided basic bots that incorporate the required XMPP operations in some of the most popular languages for the next presentation at [Mini XPDays 2013](http://www.xpdays.net/Xpday2013/Mini%20XPDay/Program.html#session_91): Node.js, Java, C#. [Rob Westgeest](http://www.westgeest-consultancy.com/) kindly donated a Ruby basic bot.
 
 * The session was further refined at [Co-Learning](http://www.co-learning.be/Gameday) in May 2013
 
