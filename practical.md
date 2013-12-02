@@ -1,16 +1,11 @@
 ---
         layout: page
         title: Softwarewolves
+        active_menu_id: menu_practical
 ---
 
 ###Practical information
 
-<style typ="text/css">
-    #menu_practical, #menu_practical a {
-        background: #323232;
-        color:white;
-    }
-</style>
 The session is typically done in pairs, although individuals and larger teams can also participate. The session is well suited for 3 to 5 teams.
 
 ###Day program

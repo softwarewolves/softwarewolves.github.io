@@ -1,18 +1,13 @@
 ---
         layout: page
         title: Softwarewolves
+        active_menu_id: menu_references
 
 ---
 
 
 ###References
 
-<style typ="text/css">
-    #menu_references, #menu_references a {
-        background: #323232;
-        color:white;
-    }
-</style>
 Softwarewolves started as a fun session at conferences, but has grown to a teambuilding event for software developers.
 Softwarewolves was previously run at:
 

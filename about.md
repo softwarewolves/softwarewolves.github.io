@@ -1,17 +1,12 @@
 ---
         layout: page
         title: Softwarewolves
+        active_menu_id: menu_about
 
 ---
 
 ###History
 
-<style typ="text/css">
-    #menu_about, #menu_about a {
-        background: #323232;
-        color:white;
-    }
-</style>
 A summary of the major milestones in the history of softwarewolves:
 
 * [Peter Doomen](http://www.linkedin.com/pub/peter-doomen/1/460/33) originally had the idea to turn the <a href="http://en.wikipedia.org/wiki/Mafia_(party_game)">werewolf party game</a> into a coding contest and proposed a session at [Agile Open Benelux 2011](http://www.agileopen.net/agile-open-belgium-2011).

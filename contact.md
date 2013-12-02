@@ -1,17 +1,12 @@
 ---
         layout: page
         title: Softwarewolves
+        active_menu_id: menu_contact
 
 ---
 
 ###Contact
 
-<style typ="text/css">
-    #menu_contact, #menu_contact a {
-        background: #323232;
-        color:white;
-    }
-</style>
 Contact us for a commercial proposal by sending us an email at <softwarewolves@archiwise.com>.
 
 Softwarewolves is a session by Alexander Helleboogh, Johan Peeters and Nelis Bouck&eacute;.
