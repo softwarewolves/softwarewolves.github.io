@@ -6,10 +6,9 @@
 
 ###The Game
 <style typ="text/css">
-    #menu_game, #menu_game a, #menu_game a:visited, #menu_game a:hover {
+    #menu_game, #menu_game a {
         background: #202021;
         color:white;
-        font-weight:normal;
     }
 </style>
 Werewolves (also known as <a href="http://en.wikipedia.org/wiki/Mafia_(party_game)">Mafia</a>) is a party game with roots in social psychology: 

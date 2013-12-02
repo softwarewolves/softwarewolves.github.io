@@ -7,10 +7,9 @@
 ###History
 
 <style typ="text/css">
-    #menu_about, #menu_about a, #menu_about a:visited, #menu_about a:hover {
+    #menu_about, #menu_about a {
         background: #202021;
         color:white;
-        font-weight:normal;
     }
 </style>
 A summary of the major milestones in the history of softwarewolves:

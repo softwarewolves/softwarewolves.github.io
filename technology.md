@@ -6,10 +6,9 @@
 
 ###Technology
 <style typ="text/css">
-    #menu_technology, #menu_technology a, #menu_technology a:visited, #menu_technology a:hover {
+    #menu_technology, #menu_technology a {
         background: #202021;
         color:white;
-        font-weight:normal;
     }
 </style>
 The underlying technology used for the Softwarewolves game is the [Extensible Messaging and Presence Protocol (XMPP)](http://en.wikipedia.org/wiki/XMPP). Bot players are XMPP clients, and connect to an XMPP server running the game engine. XMPP enables connecting bot players written in different languages and technologies.

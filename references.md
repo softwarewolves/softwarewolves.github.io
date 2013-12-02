@@ -8,10 +8,9 @@
 ###References
 
 <style typ="text/css">
-    #menu_references, #menu_references a, #menu_references a:visited, #menu_references a:hover {
+    #menu_references, #menu_references a {
         background: #202021;
         color:white;
-        font-weight:normal;
     }
 </style>
 Softwarewolves started as a fun session at conferences, but has grown to a teambuilding event for software developers.

@@ -6,10 +6,9 @@
 ###Practical information
 
 <style typ="text/css">
-    #menu_practical, #menu_practical a, #menu_practical a:visited, #menu_practical a:hover {
+    #menu_practical, #menu_practical a {
         background: #202021;
         color:white;
-        font-weight:normal;
     }
 </style>
 The session is typically done in pairs, although individuals and larger teams can also participate. The session is well suited for 3 to 5 teams.
