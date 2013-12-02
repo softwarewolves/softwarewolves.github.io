@@ -93,5 +93,8 @@ h3 {
 img.mugshot {
 	width:100%;
 	max-width:260px; 
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
