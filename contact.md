@@ -7,7 +7,7 @@
 
 ###Contact
 
-Contact us for a commercial proposal by sending us an email at <info@softwarewolves.net>.
+Contact us for a commercial proposal by sending us an email at <a href="mailto:info@softwarewolves.net">info@softwarewolves.net</a>.
 
 Softwarewolves is a session by Alexander Helleboogh, Johan Peeters and Nelis Bouck&eacute;.
 
