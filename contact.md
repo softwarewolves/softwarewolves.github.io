@@ -7,9 +7,21 @@
 
 ###Contact
 
-Contact us for a commercial proposal by sending us an email at <softwarewolves@archiwise.com>.
+Contact us for a commercial proposal by sending us an email at <info@softwarewolves.net>.
 
 Softwarewolves is a session by Alexander Helleboogh, Johan Peeters and Nelis Bouck&eacute;.
-- [Alexander](http://be.linkedin.com/in/alexanderhelleboogh) is a partner at [ArchiWise](http://www.archiwise.com) and freelance software architect. During the nights, he dreams about "killer" features and brews juicy stories for participants to implement. He maintains the C# bot to compensate for the fact he doesn't own a Windows computer.
-- [Johan's](http://be.linkedin.com/in/johanpeeters) day job is [freelance software architect and software security expert](http://johanpeeters.com). At night, he shapeshifts into a softwarewolf maintaining the ultrastable Game Engine and has a weakness for bots in exotic programming languages such as Scala and Node.js.
-- From dusk till dawn, [Nelis](http://www.linkedin.com/in/nelis) sinks his teeth into the [softwarewolves datacenter](technology.html), Game Engine and maintains the Java and Ruby bot. During the day, he goes back to his role as partner at [ArchiWise](http://www.archiwise.com) and freelance software architect.
+
+<ul class="small-block-grid-1 large-block-grid-3">
+<li>
+<img alt="Foto Alexander" src="/images/mugshots/FotoAlexander.jpg"><br>
+<a href="http://be.linkedin.com/in/alexanderhelleboogh">Alexander</a> is a partner at <a href="http://www.archiwise.com">ArchiWise</a> and freelance software architect. During the nights, he dreams about "killer" features and brews juicy stories for participants to implement. He maintains the C# bot to compensate for the fact he doesn't own a Windows computer.
+</li>
+<li> 
+
+<a href="http://be.linkedin.com/in/johanpeeters">Johan's</a> day job is freelance software architect and software security expert. At night, he shapeshifts into a softwarewolf maintaining the ultrastable Game Engine and has a weakness for bots in exotic programming languages such as Scala and Node.js.
+</li>
+<li> 
+<img alt="Foto Nelis" src="/images/mugshots/FotoNelis.jpg"><br>
+From dusk till dawn, <a href="http://www.linkedin.com/in/nelis">Nelis</a> sinks his teeth into the [softwarewolves datacenter](technology.html), Game Engine and maintains the Java and Ruby bot. During the day, he goes back to his role as partner at <a href="http://www.archiwise.com">ArchiWise</a> and freelance software architect.
+</li>
+</ul>
