@@ -21,4 +21,4 @@ Other languages available at request.
 ###Infastructure
 Our state-of-the-art game server is a raspberry pi that runs ejabberd. Did you know that requires less energy in an hour than a jumbo jet in a millisecond?
 
-<img src="https://raw.github.com/softwarewolves/softwarewolves.github.io/master/photos/pi.jpg" alt="Drawing" style="width: 400px;"/>
+<img src="/images/pi.jpg" alt="Raspberry pi serving for softwarewolves" title="Raspberry pi serving for softwarewolves" class="centered" style="width: 400px;"/>

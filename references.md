@@ -37,9 +37,9 @@ Softwarewolves was previously run at:
 <a href="http://www.agileopen.net/agile-open-belgium-2011" alt="Agile Open Belgium 2011 website"><img src="/images/externallogos/AgileOpen2011.png" alt="Logo Agile Open 2011" /></a>
 </li>
 </ul>
-
-
-![SeaChange](/photos/seachange201309_pano.jpg)
-
-![Co\-Learning](/photos/co-learning.jpg)
-
+<p>
+<img src="/images/session/seachange_pano.jpg" class="centered" alt="panorama at SeaChange" title="panorama at SeaChange"/>
+</p>
+<p>
+<img src="/images/session/co-learning.jpg" class="centered" alt="Alexander starting a session at Co-Learning" title="Alexander starting a session at Co-Learning"/>
+</p>
