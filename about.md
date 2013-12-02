@@ -2,10 +2,9 @@
         layout: page
         title: Softwarewolves
         active_menu_id: menu_about
+        content_title: history
 
 ---
-
-###History
 
 A summary of the major milestones in the history of softwarewolves:
 
