@@ -6,45 +6,45 @@
 
 ###Practical information
 
-The session is typically done in pairs, although individuals and larger teams can also participate. The session is well suited for 3 to 5 teams.
+The session is typically organised in pairs forming between 3-5 teams, but individuals and larger teams can also participate. 
 
 ###Day program
 
-The session typically takes 6-hours. In the past we have run it as a session starting in the morning with a break at lunch, or as a session starting after lunch and running a bit later in the evening. 
+The session typically takes 6-hours and either starts in the morning including a lunch break, or starts after lunch ending early evening. 
 
 A sample schedule for an afternoon session:
 
-- 13:00 Introduction to game and stories, how to get started, team formation 
+- 13:00 Introduction to game and stories, getting started, team formation 
 - 13:15 Dev Iteration
-- 14:00 Demo and retrospective on what was learned
+- 14:00 Demo and learning retrospective
 - 14:30 Break	
 - 14:45 Dev iteration 
-- 15:30 Demo and retrospective on what was learned
+- 15:30 Demo and learning retrospective
 - 16:00 Break
 - 16:15 Dev iteration
-- 17:00 Demo and retrospective on what was learned
+- 17:00 Demo and learning retrospective
 - 17:30 Break
 - 17:45 Dev iteration
-- 18:30 Demo and retrospective on what was learned
-- 18:45 Closing + concluding reflections	
+- 18:30 Demo and learning retrospective
+- 18:45 Close + concluding reflections	
 
 ###Location
 
 Softwarewolves can be held at any location, provided there is
-- a beamer
-- an internet connection
-- sufficient desk space for participants to code in comfort
+- beamer
+- internet connection
+- sufficient desk space 
 - power sockets for laptops
 - refreshments and lunch if applicable.
 
-Everthing else (dedicated WiFi, server, ...)  will be provided by the organizers.
+Everthing else (dedicated WiFi, server, ...)  is provided by the organizers.
 
 ###Prerequisites for participants
 
-- Affinity with development (it's a coding event). 
-- Prior knowledge of XMPP is not required!
-- A computer with your favorite development environment. Basic bots are available for Java, C#, Ruby, Node.js and Scala.
-- A chat client that supports XMPP, such as Pidgin for Windows or Adium for Mac OS X, or administrator privileges to install it.
+- Affinity with development for a coding event. 
+- Prior knowledge of XMPP not required
+- A computer with your favourite development environment. Basic bots are available for Java, C#, Ruby, Node.js and Scala.
+- A chat client supporting XMPP, such as Pidgin for Windows or Adium for Mac OS X, or administrator privileges for installation.
 
 
 
