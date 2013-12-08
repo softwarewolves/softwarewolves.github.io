@@ -7,11 +7,11 @@
 
 ###History
 
-A summary of the major milestones in the history of softwarewolves:
+A summary of the major milestones in the history of Softwarewolves:
 
 * [Peter Doomen](http://www.linkedin.com/pub/peter-doomen/1/460/33) originally had the idea to turn the <a href="http://en.wikipedia.org/wiki/Mafia_(party_game)">werewolf party game</a> into a coding contest and proposed a session at [Agile Open Benelux 2011](http://www.agileopen.net/agile-open-belgium-2011).
 
-* Johan Peeters won and found the concept so intriguing, that he proposed the session together with Peter for [XPDays Benelux 2011](http://www.xpday.be/Xpday2011/sessions/Agile%20Werewolves.html).
+* Johan Peeters won the day and found the concept so intriguing, he proposed the session together with Peter for [XPDays Benelux 2011](http://www.xpday.be/Xpday2011/sessions/Agile%20Werewolves.html).
 
 * The winners, Alexander Helleboogh and Nelis Bouck&eacute;, were again enthralled, jumped on the band wagon and helped to create the [XPDays Benelux 2012](http://www.xpday.be/Xpday2012/public_program/sessions/91/public.html) edition.
 By this time, the session had morphed: we provided a game engine that runs in an XMPP village and participants were asked to write villager and werewolf bots in the language of their choice.
@@ -24,6 +24,6 @@ Using XMPP as a backbone allowed conversations between bots implemented in diffe
 
 * The session went international at [SPA 2013](http://www.spaconference.org/spa2013/sessions/session499.html) in June 2013.
 
-In September 2013 Alexander, Nelis and Johan decided to offer the coding contest commercially as an in-house team-building event for developers.
+In September 2013, Alexander, Nelis and Johan decided to offer the coding contest commercially as an in-house team-building event for developers.
 
 
