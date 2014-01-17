@@ -18,7 +18,7 @@ We provide basic bot implementations that encapsulate the XMPP-protocol, so play
 
 Other languages available on request.
  
-###Infastructure
+###Infrastructure
 Our state-of-the-art game server is a raspberry pi that runs ejabberd, requiring less energy per hour than a jumbo jet in a millisecond.
 
 <img src="/images/pi.jpg" alt="Raspberry pi serving for softwarewolves" title="Raspberry pi serving for softwarewolves" class="centered" style="width: 400px;"/>
